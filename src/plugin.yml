@@ -1,0 +1,11 @@
+name: WolfGalaxy
+description: Main plugin of WolfGalaxy sevrer
+version: 0.1a
+main: org.mypixel.wolfgalaxy.Main
+commands:
+    chat:
+    plugins:
+        aliases: [pl]
+    wban:
+    show:
+    hide:
